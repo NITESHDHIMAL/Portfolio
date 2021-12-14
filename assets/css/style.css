@@ -642,7 +642,8 @@ section .container {
 }
 
 #cv{
-  margin-left: 7em;
+  margin-left: 6em;
+  margin-top: 2em;
 }
 #cv button{
   border-radius: 20px;
