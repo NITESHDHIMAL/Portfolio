@@ -66,14 +66,17 @@ function eyeBall(){
 //  localStorage.setItem("theme","light");
 // }
 
-
 // for dark theme ends
 
 
 
 
+// eye show or hide it is not working
+// const divContainer = document.querySelector('#box');
 
-
+// let showOrHide = function(){
+//   divContainer.style.display = 'none';
+// }
 
 
 
